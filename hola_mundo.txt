@@ -1,3 +1,7 @@
 Bienvenido al Sistema de Gestion v1.0
 Autor: Daniel Barahona
 Fecha: Febrero 2026 
+Bienvenido al Sistema de Gestion v1.0
+Modulo: Login de Usuarios - Acceso Seguro
+Autor: Daniel Barahona
+Fecha: Febrero 2026
