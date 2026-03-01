@@ -1,1 +1,3 @@
-"Hola Mundo - Hola mundo" 
+Bienvenido al Sistema de Gestion v1.0
+Autor: Daniel Barahona
+Fecha: Febrero 2026 
