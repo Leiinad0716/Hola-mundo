@@ -1,7 +1,5 @@
-Bienvenido al Sistema de Gestion v1.0
-Autor: Daniel Barahona
-Fecha: Febrero 2026 
-Bienvenido al Sistema de Gestion v1.0
+Bienvenido al Sistema de Gestion v1.0 - Modulo de Control v2.0
 Modulo: Login de Usuarios - Acceso Seguro
+Dashboard: Panel de Control Administrativo
 Autor: Daniel Barahona
 Fecha: Febrero 2026
