@@ -1,3 +1,7 @@
 Sistema Principal - Modulo de Control v2.0
 Autor: Daniel Barahona
 Fecha: Febrero 2026 
+Sistema Principal - Modulo de Control v2.0
+Dashboard: Panel de Control Administrativo
+Autor: Daniel Barahona
+Fecha: Febrero 2026
